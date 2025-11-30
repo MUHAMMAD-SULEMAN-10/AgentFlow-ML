@@ -8,8 +8,11 @@ AgentFlow-ML orchestrates four specialized AI agents that collaborate to solve c
 The Agents:
 
 Data Analyst (TensorFlow) - Data preprocessing and statistical analysis
+
 Pattern Recognizer (PyTorch) - Neural network-based pattern detection
+
 Decision Maker (TensorFlow) - Strategic decision making with confidence scoring
+
 Report Generator (Python) - Comprehensive performance reporting
 
 
